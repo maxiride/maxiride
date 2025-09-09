@@ -1,18 +1,6 @@
-<!--
-**maxiride/maxiride** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=timeGradient&text=Hi%20there,%20I'm%20Federico%20👋&reversal=false&fontColor=262626&fontSize=50&fontAlign=50&desc=Wildly%20developing:%20pushing%20boundaries,%20one%20commit%20at%20a%20time!&descSize=15)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there, I'm Federico 👋
+### What I do
 
 Software engineer & IT manager / Tech Lead / Architect from Italy 💻  
 
@@ -22,9 +10,20 @@ I collect client requirements, turn them into specifications, and design robust 
 I run my own self-hosted servers and I am passionate about **automation, self-hosted setups, and digital self-sufficiency** ⚡
 
 #### Some fancy icons
-<p align="center">
+<div align="center">
+  <!-- Skills icons -->
   <a>
-      <img src="https://skills.syvixor.com/api/icons?i=js,ts,html,css,sass,md,go,php,vue,quasar,primevue,pinia,vite,tauri,graphql,rabbitmq,postgresql,mysql,sqlite,mongo,redis,docker,pnpm,grafana,opentelemetry,obsidian,aws,raspberrypi"/>
+    <img src="https://skills.syvixor.com/api/icons?i=js,ts,html,css,sass,md,go,php,vue,quasar,primevue,pinia,vite,tauri,graphql,rabbitmq,postgresql,mysql,sqlite,mongo,redis,docker,pnpm,grafana,opentelemetry,obsidian,aws,raspberrypi" alt="Skills Icons" />
   </a>
-</p>
+
+  <p>
+    <!-- JetBrains icon -->
+    <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" alt="JetBrains Icon" />
+  </p>
+</div>
+
+
+          
+          
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maxiride&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
