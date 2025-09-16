@@ -22,8 +22,17 @@ I run my own self-hosted servers and I am passionate about **automation, self-ho
   </p>
 </div>
 
-
           
           
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maxiride&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+<!--
+Other interesting resources.
+
+https://github.com/Platane/snk
+https://github.com/abozanona/pacman-contribution-graph/
+https://github.com/cyprieng/github-breakout
+
+-->
